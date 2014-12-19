@@ -1,4 +1,10 @@
-learning-cpp
+Learning C++
 ============
 
-This is a repository with examples from https://developers.google.com/edu/c++/
+I just started learning C++ so I decided to create a repository that will be mine go-to place for learning C++. I'm going to be putting all of my source code in this repository, plus links to some referencing materials that I found on the Internet.
+
+If you're a starter like me, you're welcome to use this repository in any way you like.
+
+## Reference materials
+
+* [Google for Education: C++ Course](https://developers.google.com/edu/c++/)
