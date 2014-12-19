@@ -7,10 +7,12 @@ If you're a starter like me, you're welcome to use this repository in any way yo
 
 ## Current list of projects (by the creation order)
 
-* helloworld
-* helloworld2
-* get_input
-* mup_board
+* **helloworld** - A Hello World program.
+* **helloworld2** - Hello World in a 4x6 grid.
+* **get_input** - A simple program with input.
+* **mup_board** - Print multiplication board.
+* **guessing_game** - A simple "guess the number" game.
+* **eucl_alg** - An implementation of [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
 ## Reference materials
 
